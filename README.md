@@ -56,11 +56,6 @@ I enjoy crafting immersive, creative interfaces while always keeping real busine
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=daniellee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellee&layout=compact&theme=tokyonight)
-
 ## 📫 Let’s Connect
 
 - 🌐 Portfolio: coming soon
