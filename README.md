@@ -1,5 +1,3 @@
-![2f9edd57-d941-4a73-954b-815957620e0d](https://github.com/user-attachments/assets/9153a432-03f8-47ce-85cd-a404073a14a9)
-
 ### <h3 align="center">Rico Navarro passion</h3>
 <div align="center">
   <p>🚀 Frontend Developer with 9+ years of experience</p>
