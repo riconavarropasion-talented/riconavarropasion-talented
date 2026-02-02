@@ -40,7 +40,7 @@ I enjoy crafting immersive, creative interfaces while always keeping real busine
 - ✅ Create interactive and fantasy-inspired UI experiences
 - ✅ Optimize performance, scalability, and deployment pipelines
 
-## 🛠 Skills
+## 🛠 Core Skills
 
 **Frontend**
 
