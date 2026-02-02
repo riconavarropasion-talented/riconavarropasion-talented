@@ -13,10 +13,10 @@ I specialize in React, Vue, Next.js, and Angular, with a strong focus on creatin
 I’ve led the development of 30+ web projects, combining clean architecture, performance optimization, and solid UI/UX principles to deliver smooth, cross-device experiences.
 I enjoy crafting immersive, creative interfaces while always keeping real business goals in mind.
 
-✔️ 🔭 Front-End focused developer (React, Next.js, Vue)
-✔️ 🧠 Strong backend with Node.js, MongoDB
-✔️ 🎨 Love building interactive & fantasy-style UI
-✔️ 💼 Open to freelance & long-term remote work
+- 🔭 Front-End focused developer (React, Next.js, Vue)
+- 🧠 Strong backend with Node.js, MongoDB
+- 🎨 Love building interactive & fantasy-style UI
+- 💼 Open to freelance & long-term remote work
 
 ## 💼 My Works
 
