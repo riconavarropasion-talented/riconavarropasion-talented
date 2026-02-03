@@ -52,7 +52,7 @@ I enjoy crafting immersive, creative interfaces while always keeping real busine
 
 **Tools**
 
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,vscode)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)
 
 ## 📫 Let’s Connect
 
