@@ -1,8 +1,9 @@
-![logoimage](https://github.com/user-attachments/assets/a307f5a1-2598-49c2-9578-655d731dab90)
+<img width="1525" height="487" alt="Untitled" src="https://github.com/user-attachments/assets/ee648b6c-419e-43be-a4c7-6cdc9ab21e51" />
 
 ### <h3 align="center">Rico Navarro passion</h3>
 <div align="center">
-  <p>🚀 Frontend Developer with 9+ years of experience</p>
+  <p>🚀 Frontend Developer with 9+ years of exper![Uploading Untitled.png…]()
+ience</p>
   <p>🎯 React Node.js Expert | Wordpress</p>
   <p>🌏 Based in Philippines, working with global clients</p>
 </div>
