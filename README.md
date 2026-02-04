@@ -2,7 +2,7 @@
 
 ### <h3 align="center">Rico Navarro passion</h3>
 <div align="center">
-  <p>🚀 Frontend Developer with 9+ years of exper![Uploading Untitled.png…]()
+  <p>🚀 Frontend Developer with 9+ years of expert</p>
 ience</p>
   <p>🎯 React Node.js Expert | Wordpress</p>
   <p>🌏 Based in Philippines, working with global clients</p>
