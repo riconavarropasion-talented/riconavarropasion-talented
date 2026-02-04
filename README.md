@@ -1,3 +1,5 @@
+![logoimage](https://github.com/user-attachments/assets/a307f5a1-2598-49c2-9578-655d731dab90)
+
 ### <h3 align="center">Rico Navarro passion</h3>
 <div align="center">
   <p>🚀 Frontend Developer with 9+ years of experience</p>
