@@ -13,32 +13,31 @@ I treat every project like a craft. Not just “building a website or app,” bu
 
 🎁 What You Get When You Hire Me:
 
-1️⃣ Creative & Conversion-Focused Designs
-2️⃣ Reliable, Certified Web Developers
-3️⃣ Unlimited Revisions Till You're 100% Happy
-4️⃣ Pay ONLY When Satisfied – Money-Back Guarantee!
+- 1️⃣ Creative & Conversion-Focused Designs
+- 2️⃣ Reliable, Certified Web Developers
+- 3️⃣ Unlimited Revisions Till You're 100% Happy
+- 4️⃣ Pay ONLY When Satisfied – Money-Back Guarantee!
 
 📌 My Expertise Includes:
 
-✅ Website & UI/UX Design
-✅ WordPress | Shopify Ecommerce| Web Scraping | PHP | HTML | CSS
-✅ SEO-Optimized Content Writing
-✅ Graphic Design
-✅ Responsive Web Design (Mobile + Tablet)
-✅ On-Page SEO
-✅ Maintenance & Support
+- ✅ Website & UI/UX Design
+- ✅ WordPress | Shopify Ecommerce| Web Scraping | PHP | HTML | CSS
+- ✅ SEO-Optimized Content Writing
+- ✅ Graphic Design
+- ✅ Responsive Web Design (Mobile + Tablet)
+- ✅ On-Page SEO
+- ✅ Maintenance & Support
 
 ✨ Why Clients Love Working with Us:
 
-✅ 9+ Years of Experience
-✅ 24/7 Availability & Lightning-Fast Communication
-✅ Friendly, Professional & Trustworthy
+- ✅ 9+ Years of Experience
+- ✅ 24/7 Availability & Lightning-Fast Communication
+- ✅ Friendly, Professional & Trustworthy
 
 🚀 What I do
 
-✅ Front-End Development: Responsive, high-performance interfaces using HTML, JavaScript, Bootstrap, Tailwind CSS, Material UI, and modern frameworks like React, Angular, and Vue.
-
-✅ Back-End & CMS Development: Secure and scalable backends using Node.js, Nest.js, Express.js, FastAPI, Django, PHP, Laravel, .NET, plus CMS platforms like WordPress & WooCommerce (custom themes, plugins, performance optimization).
+- ✅ Front-End Development: Responsive, high-performance interfaces using HTML, JavaScript, Bootstrap, Tailwind CSS, Material UI, and modern frameworks like React, Angular, and Vue.
+- ✅ Back-End & CMS Development: Secure and scalable backends using Node.js, Nest.js, Express.js, FastAPI, Django, PHP, Laravel, .NET, plus CMS platforms like WordPress & WooCommerce (custom themes, plugins, performance optimization).
 
 My focus is simple: build reliable digital products that improve your business and look great doing it.
 
