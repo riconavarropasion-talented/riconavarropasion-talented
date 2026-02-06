@@ -59,8 +59,8 @@ Send your requirements (or reference links) and I’ll suggest the best approach
 | Front-End Developer | Tagani Inc, Philippines | Dec 2018 – May 2020 |
 | Front-End Developer | Peekawoo, Philippines | Jan 2016 – Nov 2018  |    
 
-- 👯 I’m looking to collaborate Full Stack development Projects
-- 😄 Passion: | Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music
+👯 I’m looking to collaborate Frontend development Projects
+
 
   </td>
   
