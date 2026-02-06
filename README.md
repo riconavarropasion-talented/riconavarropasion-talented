@@ -1,5 +1,5 @@
 
-<img src="./images/header.png" height="240" width="100%"></a>
+<img src="./header.png" height="240" width="100%"></a>
 
 <h3 align="center">Hello, folks! 👋, I'm Rico Navarro Pasion. </h3>
 
@@ -31,7 +31,7 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
   </td>
   
   <td width="58%" valign="top">
-  <img align="right" src="./images/work2.svg" />
+  <img align="right" src="./work2.svg" />
   </td>
   </tr>
 </table>
