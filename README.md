@@ -21,7 +21,6 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
 |   Senior Front-End Developer       |                     Altrue Inc, Philippines            | Sep 2022 – Oct 2025  |
 |  Front-End Developer |                      Spenmo, Philippines                  | Jun 2020 – Aug 2022 |
-|   Technical Instructor   |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                       | April 2021 - November 2021 |
 | Front-End Developer | Tagani Inc, Philippines | Dec 2018 – May 2020 |
 | Front-End Developer | Peekawoo, Philippines | Jan 2016 – Nov 2018  |    
 
