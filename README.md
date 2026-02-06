@@ -1,9 +1,9 @@
 
 <img src="./Untitled.png" height="240" width="100%"></a>
 
-<h3 align="center">Hello, folks! 👋, I'm Rico Navarro Pasion. </h3>
+<h3 align="center">I care about every byte — turning digital ideas into real, working products.🎉</h3>
 
-<h4 align="center"> Software Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
+<h4 align="center">Senior Frontend Developer | 9+ Yrs Exp</h4>
 
 ## BIO
 
