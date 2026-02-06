@@ -143,14 +143,6 @@ Send your requirements (or reference links) and I’ll suggest the best approach
   <td style="width:50px;height:50px;text-align:center;"><img alt="AWS" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqBlKIGFAA8PcRh-9V_WiO-KCXaY-Gyie8Q&s" width="40" height="40"></td>
 </tr></table>
 
-<h3>⛓️ Blockchain:</h3>
-<table><tr>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570714-3318bf9a-88c8-4e4c-8861-e34d7cccbfa9.png?raw=true" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570862-3e6be8b6-1f32-4279-ad8c-36726a46970f.png?raw=true" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570921-cf4d7b92-6413-4a9f-92a0-5ae36a20921f.png?raw=true" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://user-images.githubusercontent.com/62681943/138570961-38dec7bc-5f15-4f09-849a-2f73f0f7cfd7.png?raw=true" width="40" height="40"></td>
-</tr></table>
-
 <h3>📦 Others:</h3>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://www.chaijs.com/img/chai-logo.png" width="40" height="40"></td>
