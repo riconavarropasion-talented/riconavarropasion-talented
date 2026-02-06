@@ -1,7 +1,7 @@
 
 <img src="./images/header.png" height="240" width="100%"></a>
 
-<h3 align="center">Hello, folks! 👋, I'm Shubham Dutta. </h3>
+<h3 align="center">Hello, folks! 👋, I'm Rico Navarro Pasion. </h3>
 
 <h4 align="center"> Software Developer, currently pursuing my B.Tech degree in CSE from University of Engineering & Management, Kolkata. </h4>
 
@@ -17,17 +17,13 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 
 ## My Works
 
-|      💼 Designation       |                             🏢Organization                              |      ⏰Timeline      |
+|      💼 Role       |                             🏢Company                           |      ⏰Timeline      |
 | :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
-|   Software Developer      |                     [@Finarb](https://www.linkedin.com/company/finarb-consulting/)            | June 2022 - Present  |
-|   Software Developer Intern |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                  | April 2021 - May 2022 |
-|   Technical Instructor    |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                       | April 2021 - November 2021 |
-| Web Lead | [@Ureckon](https://www.ureckon.org) | November 2021 - Present |
-| Software Developer Intern | [@Quordnet-Academy](https://www.linkedin.com/company/quordnet-academy/) | Sep 2020 - Mar 2021  |
-| Backend Developer (Freelancer) | [@arches software co.](https://www.linkedin.com/company/arches-software/) | August 2021 - November 2021 |
-| Founding Member & Web Developer | [@Hack Club Uemk](https://www.linkedin.com/company/hackclubuemk/) | June 2020 - June 2021 |
-| Freelancer | [@TreatAp]() | Nov 2020 - Dec 2020 |
-    
+|   Senior Front-End Developer       |                     Altrue Inc, Philippines            | Sep 2022 – Oct 2025  |
+|  Front-End Developer |                      Spenmo, Philippines                  | Jun 2020 – Aug 2022 |
+|   Technical Instructor   |                      [@IEMA](https://www.linkedin.com/company/iemaiemlabs/)                       | April 2021 - November 2021 |
+| Front-End Developer | Tagani Inc, Philippines | Dec 2018 – May 2020 |
+| Front-End Developer | Peekawoo, Philippines | Jan 2016 – Nov 2018  |    
 
 - 👯 I’m looking to collaborate Full Stack development Projects
 - 😄 Passion: | Full Stack Developer | Contributor | Web3.0 & DevOps Enthusiast | Coder | Tech lover | Music
@@ -131,43 +127,4 @@ Full Stack MERN/MEVN Web Developer. Also efficient in working with Django Full s
 </tr></table>
 
 <br />
-
-## 🏆 Github Profile Trophy </h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubhamdutta2000&theme=dracula" alt="Shubhamdutta2000" /></a> </p>
-
-<br />
-
-## Contribution Graph
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Shubhamdutta2000&theme=react-dark&hide_border=true&area=true)
-
-<br />
-
-## Overall Profile Stats
-
-<table>
-  <tr >
-      <td align="right" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/?username=Shubhamdutta2000&count_private=true&theme=merko&show_icons=true&hide=prs" style="vertical-align: top;" />
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdutta2000&layout=compact&theme=merko" />
-    </td>
-
-  </tr>
-</table>
-
-<br />
-
-### CONNECT WITH ME ON
-
-  <table>
-    <tr>
-        <td style="width:50px;height:50px;text-align:center;"> <a href="https://www.linkedin.com/in/shubham-dutta-b342691a6/"><img height="30" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png"  width="60" height="60"></a>&nbsp;&nbsp;</td>
-        <td style="width:50px;height:50px;text-align:center;"> <a href="https://twitter.com/Shubham_dutta15"><img height="30" src="https://pngdownload.io/wp-content/uploads/2023/12/X-logo-social-media-icon-transparent-png-jpg.webp"  width="60" height="60"></a></td>
-        <td style="width:50px;height:50px;text-align:center;"><a href="https://dev.to/shubhamdutta2000"><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0hSfyHKwWGd1V4Mc1tpucPh8sVqkqQmlYsQ&usqp=CAU"  width="60" height="60"></a></td>
-    </tr>
-  </table>
-
 
