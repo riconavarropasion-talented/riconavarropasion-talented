@@ -33,7 +33,7 @@
   <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;"><img src="https://angular.io/assets/images/logos/angular/angular.png" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" width="40" height="40"></td>
 </tr></table>
 
