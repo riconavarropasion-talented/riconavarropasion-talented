@@ -3,74 +3,10 @@
 
 <h3 align="center">Welcome to Rico’s Space — where ideas come to life.</h3>
 
-<h4 align="center">Senior Frontend Developer | 9+ Yrs Exp</h4>
+<h4 align="center">Frontend Developer | 9+ Yrs Exp</h4>
 
 ## BIO
 
-I care about every byte — turning digital ideas into real, working products.
-
-I treat every project like a craft. Not just “building a website or app,” but delivering a product with clean design, smooth performance, and a user experience that feels effortless.
-
-🎁 What You Get When You Hire Me:
-
-- 1️⃣ Creative & Conversion-Focused Designs
-- 2️⃣ Reliable, Certified Web Developers
-- 3️⃣ Unlimited Revisions Till You're 100% Happy
-- 4️⃣ Pay ONLY When Satisfied – Money-Back Guarantee!
-
-📌 My Expertise Includes:
-
-- ✅ Website & UI/UX Design
-- ✅ WordPress | Shopify Ecommerce| Web Scraping | PHP | HTML | CSS
-- ✅ SEO-Optimized Content Writing
-- ✅ Graphic Design
-- ✅ Responsive Web Design (Mobile + Tablet)
-- ✅ On-Page SEO
-- ✅ Maintenance & Support
-
-✨ Why Clients Love Working with Us:
-
-- ✅ 9+ Years of Experience
-- ✅ 24/7 Availability & Lightning-Fast Communication
-- ✅ Friendly, Professional & Trustworthy
-
-🚀 What I do
-
-- ✅ Front-End Development: Responsive, high-performance interfaces using HTML, JavaScript, Bootstrap, Tailwind CSS, Material UI, and modern frameworks like React, Angular, and Vue.
-- ✅ Back-End & CMS Development: Secure and scalable backends using Node.js, Nest.js, Express.js, FastAPI, Django, PHP, Laravel, .NET, plus CMS platforms like WordPress & WooCommerce (custom themes, plugins, performance optimization).
-
-My focus is simple: build reliable digital products that improve your business and look great doing it.
-
-🤝🏻Ready to build something great together?
-Send your requirements (or reference links) and I’ll suggest the best approach with a clear plan.
-
-<br />
-
-<table style="border: none">
-  <tr >
-  <td width="42%">
-
-## My Works
-
-|      💼 Role       |                             🏢Company                           |      ⏰Timeline      |
-| :-----------------------: | :---------------------------------------------------------------------: | :------------------: |
-|   Senior Front-End Developer       |                     Altrue Inc, Philippines            | Sep 2022 – Oct 2025  |
-|  Front-End Developer |                      Spenmo, Philippines                  | Jun 2020 – Aug 2022 |
-| Front-End Developer | Tagani Inc, Philippines | Dec 2018 – May 2020 |
-| Front-End Developer | Peekawoo, Philippines | Jan 2016 – Nov 2018  |    
-
-👯 I’m looking to collaborate Frontend development Projects
-
-
-  </td>
-  
-  <td width="58%" valign="top">
-  <img align="right" src="./work2.svg" />
-  </td>
-  </tr>
-</table>
-
-<br />
 <h2>🛠️ Skilled In</h2>
 
 <h3>👨‍💻 Languages:</h3>
