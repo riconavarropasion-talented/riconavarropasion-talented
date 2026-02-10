@@ -11,17 +11,9 @@
 
 <h4>UI/UX Design Fundamentals</h4>
 <table><tr>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://img.icons8.com/color/452/bootstrap.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://brandslogos.com/wp-content/uploads/images/redux-logo-vector.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://angular.io/assets/images/logos/angular/angular.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1200px-AJAX_logo_by_gengns.svg.png" width="40" height="40"></td>
+  <td style="width:50px;height:50px;text-align:center;">Figma</td>
+  <td style="width:50px;height:50px;text-align:center;">Sketch</td>
+  <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
 <h4>Backend/Server:</h4>
