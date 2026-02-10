@@ -16,7 +16,7 @@
   <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
-<h4>Frontend Development:</h4>
+<h4>Frontend Development(Expert)</h4>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;">React</td>
   <td style="width:50px;height:50px;text-align:center;">Next.js</td>
@@ -32,14 +32,14 @@
   <td style="width:50px;height:50px;text-align:center;">Web3.js</td>  
 </tr></table>
 
-<h4>Backend Development:</h4>
+<h4>Backend Development</h4>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;">Node.js</td>
   <td style="width:50px;height:50px;text-align:center;">Express.js</td>
   <td style="width:50px;height:50px;text-align:center;">Rest</td>
 </tr></table>
 
-<h4>Database:</h4>
+<h4>Database</h4>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;">MySQL</td>
   <td style="width:50px;height:50px;text-align:center;">MongoDB</td>
