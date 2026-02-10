@@ -1,7 +1,7 @@
 
 <img src="./Untitled.png" height="240" width="100%"></a>
 
-<h3 align="center">Welcome to Rico’s Space — where ideas come to life.</h3>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I'm Rico Navarro Das</h3>
 
 <h4 align="center">Frontend Developer & UI/UX Designer | 9+ Yrs Exp</h4>
 
