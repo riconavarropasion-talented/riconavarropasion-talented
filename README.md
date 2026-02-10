@@ -7,22 +7,9 @@
 
 ## BIO
 <p>Senior Front-End Developer with 9+ years of experience building fast, reliable, and engaging web applications. I specialize in React, Vue, Next.js, and Angular, with a strong focus on creating responsive, scalable, and visually polished user interfaces. I’ve led the development of 30+ web projects, combining clean architecture, performance optimization, and solid UI/UX principles to deliver smooth, cross-device experiences. I enjoy crafting immersive, creative interfaces while always keeping real business goals in mind.</p>
-<h2>🛠️ Skilled In</h2>
+<h2>🛠️ Skills</h2>
 
-<h3>👨‍💻 Languages:</h3>
-<table><tr>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://miro.medium.com/max/1200/1*Wd5q3FM1ne7y8y1Xojh-8g.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://blog.canadianwebhosting.com/wp-content/uploads/2018/04/javascript-logo.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"></td>
-  <td style="width:50px;height:50px;text-align:center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="40" height="40"></td>
-
-</tr></table>
-
-<h3>🌐 Web Development (Full-stack):</h3>
-
-<h4>Frontend/UI:</h4>
+<h4>UI/UX Design Fundamentals</h4>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png" width="40" height="40"></td>
   <td style="width:50px;height:50px;text-align:center;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"></td>
