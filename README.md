@@ -1,7 +1,7 @@
 
 <img src="./Untitled.png" height="240" width="100%"></a>
 
-<h2 align="center">Rico Navarro Pasion</h2>
+### <h2 align="center">Rico Navarro Pasion</h2>
 <p align="center">Frontend Developer & UI/UX Designer | 9+ Yrs Exp</p>
 
 ## BIO
