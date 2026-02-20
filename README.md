@@ -5,7 +5,7 @@
 <p align="center">Frontend Developer & UI/UX Designer | 9+ Yrs Exp</p>
 
 ## BIO
-<p>Senior Front-End Developer with 9+ years of experience building fast, reliable, and engaging web applications. I specialize in React, Vue, Next.js, and Angular, with a strong focus on creating responsive, scalable, and visually polished user interfaces. I’ve led the development of 30+ web projects, combining clean architecture, performance optimization, and solid UI/UX principles to deliver smooth, cross-device experiences. I enjoy crafting immersive, creative interfaces while always keeping real business goals in mind.</p>
+<p>Senior Front-End Developer with 9+ years of experience building fast, reliable, and engaging web applications. I specialize in React, Vue, Next.js, and Angular, with a strong focus on creating responsive, scalable, and visually polished user interfaces. I’ve led the development of 90+ web projects, combining clean architecture, performance optimization, and solid UI/UX principles to deliver smooth, cross-device experiences. I enjoy crafting immersive, creative interfaces while always keeping real business goals in mind.</p>
 <h2>🛠️ Skills</h2>
 
 <h4>UI/UX Design</h4>
