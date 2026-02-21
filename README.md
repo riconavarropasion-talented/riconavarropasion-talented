@@ -18,8 +18,9 @@
 <h4>Frontend Development(Expert)</h4>
 <table><tr>
   <td style="width:50px;height:50px;text-align:center;">React</td>
+  <td style="width:50px;height:50px;text-align:center;">Angluar</td>
+  <td style="width:50px;height:50px;text-align:center;">Vue</td>
   <td style="width:50px;height:50px;text-align:center;">Next.js</td>
-  <td style="width:50px;height:50px;text-align:center;">Vue.js</td>
   <td style="width:50px;height:50px;text-align:center;">React Native</td>
   <td style="width:50px;height:50px;text-align:center;">Flutter</td>
   <td style="width:50px;height:50px;text-align:center;">Redux</td>
