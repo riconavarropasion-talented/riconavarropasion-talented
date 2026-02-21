@@ -37,6 +37,7 @@
   <td style="width:50px;height:50px;text-align:center;">Node.js</td>
   <td style="width:50px;height:50px;text-align:center;">Express.js</td>
   <td style="width:50px;height:50px;text-align:center;">Rest</td>
+  <td style="width:50px;height:50px;text-align:center;">ASP.NET Core</td>
 </tr></table>
 
 <h4>Database</h4>
