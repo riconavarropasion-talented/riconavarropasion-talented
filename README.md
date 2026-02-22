@@ -15,29 +15,21 @@
   <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <td>React</td>
-    <td>Angular</td>
-    <td>Vue</td>
-    <td>Next.js</td>
-    <td>React Native</td>
-  </tr>
-  <tr>
-    <td>Flutter</td>
-    <td>Redux</td>
-    <td>Tailwind CSS</td>
-    <td>Headless UI</td>
-    <td>Antd</td>
-  </tr>
-  <tr>
-    <td>MUI</td>
-    <td>Bootstrap</td>
-    <td>Web3.js</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div style="display:flex; flex-wrap:wrap; gap:15px;">
+  <span>React</span>
+  <span>Angular</span>
+  <span>Vue</span>
+  <span>Next.js</span>
+  <span>React Native</span>
+  <span>Flutter</span>
+  <span>Redux</span>
+  <span>Tailwind CSS</span>
+  <span>Headless UI</span>
+  <span>Antd</span>
+  <span>MUI</span>
+  <span>Bootstrap</span>
+  <span>Web3.js</span>
+</div>
 
 <h4>Backend Development</h4>
 <table><tr>
