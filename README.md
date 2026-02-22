@@ -15,21 +15,7 @@
   <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
-<div style="display:flex; flex-wrap:wrap; gap:15px;">
-  <span>React</span>
-  <span>Angular</span>
-  <span>Vue</span>
-  <span>Next.js</span>
-  <span>React Native</span>
-  <span>Flutter</span>
-  <span>Redux</span>
-  <span>Tailwind CSS</span>
-  <span>Headless UI</span>
-  <span>Antd</span>
-  <span>MUI</span>
-  <span>Bootstrap</span>
-  <span>Web3.js</span>
-</div>
+<table><tr> <td style="width:50px;height:50px;text-align:center;">React</td> <td style="width:50px;height:50px;text-align:center;">Angluar</td> <td style="width:50px;height:50px;text-align:center;">Vue</td> <td style="width:50px;height:50px;text-align:center;">Next.js</td> <td style="width:50px;height:50px;text-align:center;">React Native</td> <td style="width:50px;height:50px;text-align:center;">Flutter</td> <td style="width:50px;height:50px;text-align:center;">Redux</td> <td style="width:50px;height:50px;text-align:center;">Tailwind CSS</td> <td style="width:50px;height:50px;text-align:center;">Headless UI</td> <td style="width:50px;height:50px;text-align:center;">Antd</td> <td style="width:50px;height:50px;text-align:center;">MUI</td> <td style="width:50px;height:50px;text-align:center;">Bootstrap</td> <td style="width:50px;height:50px;text-align:center;">Web3.js</td> </tr></table>
 
 <h4>Backend Development</h4>
 <table><tr>
