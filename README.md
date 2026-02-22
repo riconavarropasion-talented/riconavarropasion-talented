@@ -15,6 +15,7 @@
   <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
+<h4>Frontend Development</h4>
 <table><tr> 
   <td style="width:50px;height:50px;text-align:center;">React</td>
   <td style="width:50px;height:50px;text-align:center;">Angluar</td> 
@@ -22,13 +23,11 @@
   <td style="width:50px;height:50px;text-align:center;">Next.js</td> 
   <td style="width:50px;height:50px;text-align:center;">React Native</td> 
   <td style="width:50px;height:50px;text-align:center;">Flutter</td> 
-  <td style="width:50px;height:50px;text-align:center;">Redux</td>
+  <td style="width:50px;height:50px;text-align:center;">Web3.js</td>
   <td style="width:50px;height:50px;text-align:center;">Tailwind CSS</td> 
   <td style="width:50px;height:50px;text-align:center;">Headless UI</td> 
   <td style="width:50px;height:50px;text-align:center;">Antd</td>
   <td style="width:50px;height:50px;text-align:center;">MUI</td> 
-  <td style="width:50px;height:50px;text-align:center;">Bootstrap</td> 
-  <td style="width:50px;height:50px;text-align:center;">Web3.js</td>
 </tr></table>
 
 <h4>Backend Development</h4>
