@@ -15,21 +15,27 @@
   <td style="width:50px;height:50px;text-align:center;">Adobe XD</td>
 </tr></table>
 
-<table style="width:100%; table-layout: fixed;">
+<table style="width:100%; text-align:center;">
   <tr>
-    <td style="text-align:center;">React</td>
-    <td style="text-align:center;">Angular</td>
-    <td style="text-align:center;">Vue</td>
-    <td style="text-align:center;">Next.js</td>
-    <td style="text-align:center;">React Native</td>
-    <td style="text-align:center;">Flutter</td>
-    <td style="text-align:center;">Redux</td>
-    <td style="text-align:center;">Tailwind CSS</td>
-    <td style="text-align:center;">Headless UI</td>
-    <td style="text-align:center;">Antd</td>
-    <td style="text-align:center;">MUI</td>
-    <td style="text-align:center;">Bootstrap</td>
-    <td style="text-align:center;">Web3.js</td>
+    <td>React</td>
+    <td>Angular</td>
+    <td>Vue</td>
+    <td>Next.js</td>
+    <td>React Native</td>
+  </tr>
+  <tr>
+    <td>Flutter</td>
+    <td>Redux</td>
+    <td>Tailwind CSS</td>
+    <td>Headless UI</td>
+    <td>Antd</td>
+  </tr>
+  <tr>
+    <td>MUI</td>
+    <td>Bootstrap</td>
+    <td>Web3.js</td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
